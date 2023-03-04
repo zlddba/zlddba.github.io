@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>博客破站</title>
+  
+  <subtitle>不正经的博客</subtitle>
+  <link href="https://zlddba.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zlddba.github.io/"/>
+  <updated>2023-03-04T03:16:37.950Z</updated>
+  <id>https://zlddba.github.io/</id>
+  
+  <author>
+    <name>zlddba</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试网站</title>
+    <link href="https://zlddba.github.io/2023/03/04/%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99/"/>
+    <id>https://zlddba.github.io/2023/03/04/%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99/</id>
+    <published>2023-03-04T03:16:17.000Z</published>
+    <updated>2023-03-04T03:16:37.950Z</updated>
+    
+    <content type="html"><![CDATA[<p>cs</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;cs&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
